@@ -1,0 +1,20 @@
+.card-group{
+    width: 350px;
+    border: none;
+}
+
+.card-img-top{
+    height: 275px;
+    border-radius: 10%;
+    border: none;
+}
+
+.card{
+    background-color: #0F7176;
+    box-shadow: 10px 10px #c0dac9;
+    color: #000000;
+    border-radius: 10%;
+    border: 2px solid #EBBF61;
+    ;
+}
+
